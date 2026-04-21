@@ -1,0 +1,28 @@
+{
+  "project_info": {
+    "project_number": "863529519686",
+    "project_id": "myc-chat-99ec8",
+    "storage_bucket": "myc-chat-99ec8.firebasestorage.app",
+    "firebase_url": "https://myc-chat-99ec8-default-rtdb.firebaseio.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863529519686:android:6203902c8a70749dbe5847",
+        "android_client_info": {
+          "package_name": "com.crispybroasted.myc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        { "current_key": "AIzaSyAUdBWJmw82rCvtdPrVDjr9XRZNQ6x19rM" }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
